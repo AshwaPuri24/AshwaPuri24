@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 👨‍💻 I'm Ashwani Kumar Puri, BCA 2024 passout<br><br>
-🔭 I’m currently working on mastering full-stack development with Java and the Spring Framework, along with modern web technologies like React.js, Node.js, and PostgreSQL. <br><br>👯 I’m looking to collaborate on innovative projects in software development and AI/ML. <br><br>🤝 I’m looking for help with improving my software development skills and open source. <br><br>🌱 I’m currently learning Full-Stack Development using Java Spring in BackEnd and Javascript Framework in FrontEnd.  <br><br>💬 Ask me about anything related to full-stack development, coding practices, or my journey in IT.  <br><br>⚡ Fun fact: I dream of creating revolutionary AI systems while building impactful tech businesses.
+🔭 I’m currently working on mastering full-stack development with Java and the Spring Framework, along with modern web technologies like React.js, Node.js, and PostgreSQL. <br><br>👯 I’m looking to collaborate on innovative projects in software development and AI/ML. <br><br>🤝 I’m looking for help with improving my software development skills and open source. <br><br>🌱 I’m currently learning Full-Stack Development using Java Spring in BackEnd and Javascript Framework in FrontEnd.  <br><br>💬 Ask me about anything related to full-stack development, coding practices, or my journey in IT.  <br><br>⚡ Fun fact: I dream of creating revolutionary AI systems while building impactful tech business.
 
 
 ## 🌐 Socials:
